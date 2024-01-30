@@ -18,3 +18,6 @@ CSS
 The project served as a practical application of front-end development skills, reinforcing proficiency in HTML and CSS. It showcased the ability to replicate complex designs and implement responsive layouts. Additionally, the project provided valuable experience in working with web design principles and attention to detail.
 
 ![image](https://github.com/Anu-tgi/Spotify/assets/97496476/75bfa8d9-6d4f-4bae-87ac-22bbb15a7e4a)
+
+![image](https://github.com/Anu-tgi/Spotify/assets/97496476/02ff0079-3a14-4120-a68e-c31e2e451049)
+
